@@ -1,0 +1,70 @@
+* { /*VALORES PARA ARRANCAR EL CÓDIGO CON MARGEN & PADDING EN CERO*/
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+
+
+
+
+
+
+body {
+    background: white;
+  }
+
+  h1 {
+    color: #FF5967;
+  }
+
+nav{
+    background:#FFB9BF;
+}
+
+
+.menu{
+
+}
+
+
+
+#menu{
+   
+}
+
+#submenu{
+    color: white;
+    text-align: right;
+    padding: 30px 30px;
+    font: bold;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#submenu:hover{
+    background: #FF5967;
+}
+
+#banner{
+    background: #FFE0E0;
+}
+
+#tituloBanner{
+    color: #FF5967;
+}
+
+#informacionEnmedio{
+    text-align: center;
+}
+
+#textoIzquierda{
+    
+    text-align: left;
+}
+
+#pie{
+    text-align: center;
+
+}
